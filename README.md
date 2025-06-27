@@ -2,9 +2,9 @@
 
 ![img](https://owo.whats-th.is/4rAESqy.png)
 
-This is a meme made about tux, my dog. He was named after the Linux Mascot Tux, due to color similarities.
+This is a meme made about Tux, my dog. He was named after the Linux Mascot Tux, due to color similarities.
 
-Also, since tux was named after Tux, there are many Linux references. ¯\\\_(ツ)_/¯
+Also, since tux was named after Tux, there are many Linux references. ¯\_(ツ)_/¯
 
 ## Keyboard shortcuts
 
