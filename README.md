@@ -2,9 +2,9 @@
 
 ![img](https://owo.whats-th.is/4rAESqy.png)
 
-This is a meme made about b1nzy, an ex-[Discord](https://discordapp.com) developer. He likes ratelimiting people.
+This is a meme made about tux, my dog. He was named after the Linux Mascot Tux, due to color similarities.
 
-Also, there's this guy called meew0. He hates eyes. He uses the light theme. ¯\\\_(ツ)_/¯
+Also, since tux was named after Tux, there are many Linux references. ¯\\\_(ツ)_/¯
 
 ## Keyboard shortcuts
 
